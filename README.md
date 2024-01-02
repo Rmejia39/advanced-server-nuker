@@ -72,3 +72,5 @@ The default Bot cmd for nuking is `.nuke` no cap!
 - Before start nuking, make sure your bot have administrator permissions.
 - DO NOT mention that you do server raidings. Someone might report you for this.
 - Don't Share the Bot token with anyone. If it got leaked then regenerate it and update the `main.py`.
+
+
